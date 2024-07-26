@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gowtham Uppalapati</h1>
 <h3 align="center">a passionate DevOps Engineer with a strong interest in creating efficient, scalable, and reliable systems. I am dedicated to leveraging my skills in continuous integration/continuous deployment (CI/CD), infrastructure as code (IaC), and cloud computing to drive innovation and enhance operational efficiency.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gowthamuppalapati&label=Profile%20views&color=0e75b6&style=flat" alt="gowthamuppalapati" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gowthamuppalapati" alt="gowthamuppalapati" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/gowthamchows99" target="blank"><img src="https://img.shields.io/twitter/follow/gowthamchows99?logo=twitter&style=for-the-badge" alt="gowthamchows99" /></a> </p>
 
 - 🔭 I’m currently working on **DevOps Tools**
