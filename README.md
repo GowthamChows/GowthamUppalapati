@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **gowthamuppalapati21@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hAjIj9AO-jX8NJUUQHXb4SfPl0SGp9l4/view?usp=sharing](https://drive.google.com/file/d/1hAjIj9AO-jX8NJUUQHXb4SfPl0SGp9l4/view?usp=sharing)
+- 📄 Know about my experiences [https://www.dropbox.com/scl/fi/nuhwcxvjv2xoeaptktce5/Gowtham-Resume..pdf?rlkey=ha2ovmhpof4sitk7rsb9w6o0z&st=mp7sg13b&dl=0](https://www.dropbox.com/scl/fi/nuhwcxvjv2xoeaptktce5/Gowtham-Resume..pdf?rlkey=ha2ovmhpof4sitk7rsb9w6o0z&st=mp7sg13b&dl=0)
 
 - ⚡ Fun fact **"I’m always on the hunt for the perfect DevOps joke."**
 
