@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@gowthamuppalapati31](https://medium.com/@gowthamuppalapati31)
   
-- 💬 My Portfolio Website **https://gowtham-site.netlify.app/**
+- 💬 My Portfolio Website **https://gowtham-pw.netlify.app/**
 
 - 📫 How to reach me **gowthamuppalapati21@gmail.com**
 
