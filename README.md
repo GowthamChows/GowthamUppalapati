@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gowtham Uppalapati</h1>
-<h3 align="center">a passionate DevOps Engineer with a strong interest in creating efficient, scalable, and reliable systems. I am dedicated to leveraging my skills in continuous integration/continuous deployment (CI/CD), infrastructure as code (IaC), and cloud computing to drive innovation and enhance operational efficiency.</h3>
+<h3 align="center">AWS Certified Cloud Practitioner with nearly 2 years of hands-on experience in DevOps, I specialize in designing, implementing, and maintaining CI/CD pipelines, cloud infrastructure, and monitoring solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowthamuppalapati&label=Profile%20views&color=0e75b6&style=flat" alt="gowthamuppalapati" /> </p>
 
@@ -7,26 +7,26 @@
 
 <p align="left"> <a href="https://twitter.com/gowthamchows99" target="blank"><img src="https://img.shields.io/twitter/follow/gowthamchows99?logo=twitter&style=for-the-badge" alt="gowthamchows99" /></a> </p>
 
-- 🔭 I’m currently working on **DevOps Tools**
+- 🔭 I’m currently working as **DevOps Engineer**
 
 - 🌱 I’m currently learning **AWS Services,**
 
-- 👨‍💻 All of my projects are available at [https://github.com/GowthamUppalapati](https://github.com/GowthamUppalapati)
+- 👨‍💻 All of my projects are available at [https://github.com/GowthamChows](https://github.com/GowthamChows)
 
 - 📝 I regularly write articles on [https://medium.com/@gowthamuppalapati31](https://medium.com/@gowthamuppalapati31)
   
-- 💬 My Portfolio Website **https://gowtham-pw.netlify.app/**
+- 💬 My Portfolio Website **https://gowtham-.netlify.app/**
 
-- 📫 How to reach me **gowthamuppalapati21@gmail.com**
+- 📫 How to reach me **gowthamu1622@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SaDT7fTdvVZawuTUHADUlsW6x_TOQffc/view?usp=sharing](https://drive.google.com/file/d/1SaDT7fTdvVZawuTUHADUlsW6x_TOQffc/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1u7ocVa48EnXlKOxbUaiXh50s6YfNmCwQ/view?usp=sharing](https://drive.google.com/file/d/1u7ocVa48EnXlKOxbUaiXh50s6YfNmCwQ/view?usp=sharing)
 
 - ⚡ Fun fact **"I’m always on the hunt for the perfect DevOps joke."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gowthamchows99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gowthamchows99" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gowthamuppalapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gowthamuppalapati" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gowthamu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gowthamu" height="30" width="40" /></a>
 <a href="https://instagram.com/uppalapati_gowtham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uppalapati_gowtham" height="30" width="40" /></a>
 <a href="https://medium.com/@gowthamuppalapati31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gowthamuppalapati31" height="30" width="40" /></a>
 </p>
